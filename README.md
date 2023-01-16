@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tolgasaman
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning front-end first and after 6 months I am planning to move forward to backend as well
-- 💞️ I’m looking to collaborate on web-design projects
+- 👀 I’m interested in web development / web3 technologies 
+- 🌱 I’m currently learning javascript, react, solidity and smart contracts
+- 💞️ I’m looking to collaborate on web development and web3 technology
 - 📫 How to reach me mtolgasamanci@gmail.com
 
 <!---
